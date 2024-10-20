@@ -21,5 +21,5 @@ The project consists of three main classes:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/Hospital-Managemen-System.git
+   git clone https://github.com/sandeepgoudmacha/Hospital-Managemen-System.git
    cd hospital-Management-System
